@@ -2,8 +2,8 @@
 export default function Contact () {
 
     const config = {
-        email : 'jvlcodevideos@gmail.com',
-        phone: '+45456565656'
+        email : 'manimithran1502@gmail.com',
+        phone: '+91 9344795878'
     }
 
     return <section id='contact' className='flex flex-col bg-primary px-5 py-32 text-white'>

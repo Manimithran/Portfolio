@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.jpg';
 
 export default function Resume () {
     const config = {
-        link: 'https://www.africau.edu/images/default/sample.pdf'
+        link: 'https://flowcv.com/resume/6a3clssfku'
     }
 
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
