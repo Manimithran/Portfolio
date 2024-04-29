@@ -16,7 +16,7 @@ jobs:
       - name: Build Docker Image
         run: docker build -t manimithran/reactjs-app .
       - name: Publish image to docker hub
-        run: docker push manimithran/reactjs-app:latest 
+        run: docker push manimithran/reactjs-app:latest
 
   deploy: 
     needs: build
